@@ -260,13 +260,13 @@ const Index = () => {
               <div className="food-photo-section">
                 <img style={{ borderRadius: '15px' }} src="https://img.etimg.com/thumb/width-420,height-315,imgsize-472476,resizemode-75,msid-112444338/news/sports/olympic-gold-medals-are-worth-more-than-ever-after-cost-of-metals-surged/gold-medal.jpg" width="300" height="448" />{" "}
                 <a href="https://olympics.com/ioc/ancient-olympic-games/history" className="one">
-                  <i className="fa-solid fa-burger" />
+                  <i className="fa-solid fa-star" />
                  Olympic History
                 </a>{" "}
                 <br></br>
 
                 <a href="https://www.bbc.com/sport/olympics" className="two">
-                  <i className="fa-solid fa-cheese" />
+                  <i className="fa-solid fa-star" />
                   Live Olympic Updates
                 </a>{" "}
                 <br></br>
@@ -274,7 +274,7 @@ const Index = () => {
                 <br></br>
 
                 <a href="https://www.teamusa.com/" className="three">
-                  <i className="fa-solid fa-pizza-slice" />
+                  <i className="fa-solid fa-star" />
                   Join The Olympics Movement!
                 </a>
               </div>
