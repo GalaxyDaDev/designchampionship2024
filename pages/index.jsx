@@ -77,7 +77,7 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://i.ytimg.com/vi/fZl_LVU7a18/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCWC926ddv3kvqPXj8-_gKQWLiuxw" width="300" height="170"/>
-                <h4>
+                <h4 href="https://www.youtube.com/watch?v=fZl_LVU7a18">
                    Men's Football Gold Medal Game
                 </h4>
                 <p>
@@ -93,7 +93,7 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYr7axrYdqJ1s4ApgT2_WuhrBn4URiwtZGw&s" width="300" height="170"/>
-                <h4>
+                <h4 href="https://www.youtube.com/watch?v=D8HdQX1jg9c&t">
                 Men's Street Skateboarding Final
                 </h4>
                 <p>
@@ -109,7 +109,7 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://i.ytimg.com/vi/sWVPnyyLnFw/maxresdefault.jpg" width="300" height="170"/>
-                <h4>
+                <h4 href="https://www.youtube.com/watch?v=sWVPnyyLnFw">
                   9 Minutes of INSANE Badminton Points
                 </h4>
                 <p>
