@@ -77,9 +77,11 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://i.ytimg.com/vi/fZl_LVU7a18/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCWC926ddv3kvqPXj8-_gKQWLiuxw" width="300" height="170"/>
-                <h4 href="https://www.youtube.com/watch?v=fZl_LVU7a18">
+                <a href="https://www.youtube.com/watch?v=fZl_LVU7a18">
+                <h4>
                    Men's Football Gold Medal Game
                 </h4>
+                </a>
                 <p>
                 The Men's Football Gold Medal Game was a thrilling climax to the tournament, featuring a riveting match between two of the most formidable teams. The game was a showcase of skill, strategy, and sheer determination, culminating in a nail-biting finish that kept fans on the edge of their seats.
                 </p>
@@ -93,9 +95,11 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTYr7axrYdqJ1s4ApgT2_WuhrBn4URiwtZGw&s" width="300" height="170"/>
-                <h4 href="https://www.youtube.com/watch?v=D8HdQX1jg9c&t">
+              <a href="https://www.youtube.com/watch?v=D8HdQX1jg9c&t">
+                <h4>
                 Men's Street Skateboarding Final
                 </h4>
+                </a>
                 <p>
                 The Men's Street Skateboarding Final was a spectacular display of creativity, technical skill, and fearless athleticism. Competitors pushed the boundaries of the sport, executing incredible tricks and maneuvers on the streets of Paris.
                 </p>
@@ -109,9 +113,11 @@ const Index = () => {
             >
               <div className="work-card">
                 <img style={{ borderRadius: '15px' }} src="https://i.ytimg.com/vi/sWVPnyyLnFw/maxresdefault.jpg" width="300" height="170"/>
-                <h4 href="https://www.youtube.com/watch?v=sWVPnyyLnFw">
+               <a href="https://www.youtube.com/watch?v=sWVPnyyLnFw">
+                <h4 >
                   9 Minutes of INSANE Badminton Points
                 </h4>
+                </a>
                 <p>
                 Badminton at the 2024 Paris Olympics delivered some of the most electrifying and unforgettable moments of the Games. In a match that has been dubbed "9 Minutes of INSANE Badminton Points," spectators witnessed an extraordinary display of agility, precision, and endurance.
                 </p>
