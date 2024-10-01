@@ -494,7 +494,129 @@ const Index = () => {
         </div>
       </section>
       {}
-    
+      <section className="news-section gap">
+        <div className="container">
+          <h2>Chasing Glory: Olympic Chronicles</h2>
+          <div className="row">
+            <div
+              className="col-xl-6 col-lg-12"
+              data-aos="flip-up"
+              data-aos-delay={200}
+              data-aos-duration={300}
+            >
+              <div className="news-posts-one">
+                <img  src="https://eu-images.contentstack.com/v3/assets/blt8bbf16c2d7a209e5/blt703bd8a09c0e9148/66b25d761635475d51699820/snoop-dogg-is-being-paid-an-eye-watering-amount-of-money-for-being-special-correspondent-at-paris-olympics.png" width="600" height="258" />
+                <h3>Paris 2024 Olympics had it all: Sporting drama, revered venues, stirring singalongs... and Snoop Dogg</h3>
+                
+                <Link href="https://olympics.com/en/news/paris-2024-sporting-drama-revered-venues-stirring-singalongs-snoop-dogg">
+                  Read More
+                  <i className="fa-solid fa-arrow-right" />
+                </Link>
+                <ul className="data">
+                  <li>
+                    <h6>
+                      <i className="fa-solid fa-user" />
+                      By Jo Gunston
+                    </h6>
+                  </li>
+                  <li>
+                    <h6>
+                      <i className="fa-regular fa-calendar-days" />
+                      11 August 2024
+                    </h6>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              className="col-xl-6 col-lg-12"
+              data-aos="flip-up"
+              data-aos-delay={300}
+              data-aos-duration={400}
+            >
+              <div className="news-post-two">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDAvtc4Y6Z6RkeUkpPKb_ZqUskR5553R59XJV7vr44cmt2Ij1TEmezJ1VlnCCbGqCIkwE&usqp=CAU" width="200" height="150" />
+                <div className="news-post-two-data">
+                  <h6>
+                    <Link href="https://olympics.com/en/news/paris-2024-breakout-stars-la28-leon-marchand">
+                    Los Angeles 2028: Breakout stars from Paris 2024 to watch at LA28, including Leon Marchand and Quincy Wilson..
+                    </Link>
+                  </h6>
+                  <p>
+                  It is the greatest stage for an athlete to announce themselves to the world, whether young stars bursting onto the scene or seasoned talents finally getting their flowers at the Olympic Games...
+                  </p>
+                  <ul className="data">
+                    <li>
+                      <h6>
+                        <i className="fa-solid fa-user" />
+                        By Nischal Schwager
+                      </h6>
+                    </li>
+                    <li>
+                      <h6>
+                        <i className="fa-regular fa-calendar-days" />
+                        11 August 2024
+                      </h6>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="news-post-two">
+                <img  src="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w1920/f_auto/primary/bvs0fqltyonxl7zyvjn1" width="200" height="140" />
+                <div className="news-post-two-data">
+                  <h6>
+                    <Link href="https://olympics.com/en/news/andy-murray-shelly-ann-fraser-pryce-ten-stars-end-olympic-careers-paris-2024">From Eliud Kipchoge to Shelly-Ann Fraser-Pryce: Ten stars end Olympic careers at Paris 2024 </Link>
+                  </h6>
+                  <p>
+                  It is never easy to hang up the boots, running shoes, racket, goggles or gloves for good, but these sporting greats have decided to retire after competing in their final Olympics...
+                  </p>
+                  <ul className="data">
+                    <li>
+                      <h6>
+                        <i className="fa-solid fa-user" />
+                        By Michael Hincks
+                      </h6>
+                    </li>
+                    <li>
+                      <h6>
+                        <i className="fa-regular fa-calendar-days" />
+                        11 August 2024
+                      </h6>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div className="news-post-two end">
+                <img  src="https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w1920/f_auto/primary/rfzeyejqvcmgtixbgttf" width="200" height="140" />
+                <div className="news-post-two-data">
+                  <h6>
+                    <Link href="https://olympics.com/en/news/records-stats-facts-of-historic-paris-2024">
+                    Paris 2024: Records, stats and facts from a historic Olympic Games
+                    </Link>
+                  </h6>
+                  <p>
+                  rom 14-year-old Arisa Trew becoming her country’s youngest Olympic gold medallist to Armand 'Mondo' Duplantis’ leap into the history books, Olympics.com takes a look at some of the records that tumbled in Paris...
+                  </p>
+                  <ul className="data">
+                    <li>
+                      <h6>
+                        <i className="fa-solid fa-user" />
+                        By Matt Nelsen
+                      </h6>
+                    </li>
+                    <li>
+                      <h6>
+                        <i className="fa-regular fa-calendar-days" />
+                       14 August 2024
+                      </h6>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
       {}
       <Subscribe />
     </Layout>
