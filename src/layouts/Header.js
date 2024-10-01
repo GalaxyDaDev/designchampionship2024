@@ -61,7 +61,7 @@ const Header = ({ extraClass }) => {
           <div className="col-lg-3">
             <div className="extras bag">
              
-              <Link href="https://www.youtube.com/@Olympics" className="button button-2">
+              <Link href="https://olympics.com/en/olympic-channel" className="button button-2">
                 Watch
               </Link>
             </div>
